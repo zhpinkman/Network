@@ -1,3 +1,15 @@
 [submodule "RSA"]
 	path = RSA
 	url = https://github.com/zhpinkman/RSA
+[submodule "tcp-congestion-control"]
+	path = tcp-congestion-control
+	url = https://github.com/zhpinkman/tcp-congestion-control
+[submodule "ryu-controller"]
+	path = ryu-controller
+	url = https://github.com/zhpinkman/ryu-controller
+[submodule "ftp-server"]
+	path = ftp-server
+	url = https://github.com/zhpinkman/ftp-server
+[submodule "p2p-network"]
+	path = p2p-network
+	url = https://github.com/zhpinkman/p2p-network
